@@ -8,5 +8,5 @@
 <a href="https://discord.com/users/320542523586117632"><img src="https://lanyard-profile-readme.vercel.app/api/320542523586117632"/></a>
 </br>
 <summary><b>Spotify</b></summary>
-<a href="https://discord.com/users/320542523586117632"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31raqvn14c8jxkg33ip9ot92f&unique=true"/></a>
+<a href="https://open.spotify.com/user/31raqvn14c8jxkg33ip9ot92f"><img src="https://spotify-recently-played-readme.vercel.app/api?user=31raqvn14c8jxkg33ip9ot92f&unique=true"/></a>
 
